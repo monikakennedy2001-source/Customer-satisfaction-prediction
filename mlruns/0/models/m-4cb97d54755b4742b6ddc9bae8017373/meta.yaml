@@ -1,0 +1,10 @@
+artifact_location: file:///C:/py%20project/passenger%20satisfaction/mlruns/0/models/m-4cb97d54755b4742b6ddc9bae8017373/artifacts
+creation_timestamp: 1759405075361
+experiment_id: '0'
+last_updated_timestamp: 1759405079849
+model_id: m-4cb97d54755b4742b6ddc9bae8017373
+model_type: null
+name: GradientBoosting
+source_run_id: 9ef95c86d3ee41a39a379ffa212e53c9
+status: 2
+status_message: null

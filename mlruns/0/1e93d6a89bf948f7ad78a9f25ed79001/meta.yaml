@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/py%20project/passenger%20satisfaction/mlruns/0/1e93d6a89bf948f7ad78a9f25ed79001/artifacts
+end_time: 1750487717486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e93d6a89bf948f7ad78a9f25ed79001
+run_name: GradientBoosting
+run_uuid: 1e93d6a89bf948f7ad78a9f25ed79001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750487701837
+status: 3
+tags: []
+user_id: Monika

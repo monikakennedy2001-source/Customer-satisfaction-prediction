@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/py%20project/passenger%20satisfaction/mlruns/0/70c218b673bb4eca934a0709bc277dcd/artifacts
+end_time: 1750442572034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70c218b673bb4eca934a0709bc277dcd
+run_name: RandomForest
+run_uuid: 70c218b673bb4eca934a0709bc277dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750442559031
+status: 3
+tags: []
+user_id: Monika

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/py%20project/passenger%20satisfaction/mlruns/0/models/m-07e4622ff1c24f7497182258b0429758/artifacts
+creation_timestamp: 1759404994786
+experiment_id: '0'
+last_updated_timestamp: 1759405000959
+model_id: m-07e4622ff1c24f7497182258b0429758
+model_type: null
+name: LogisticRegression
+source_run_id: c496ae7472b749fbb0ce662271f1b862
+status: 2
+status_message: null

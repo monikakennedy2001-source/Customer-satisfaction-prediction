@@ -1,0 +1,10 @@
+artifact_location: file:///C:/py%20project/passenger%20satisfaction/mlruns/0/models/m-523032d96b1a4cb49e7c3b26b9d2ed9e/artifacts
+creation_timestamp: 1759405107129
+experiment_id: '0'
+last_updated_timestamp: 1759405111844
+model_id: m-523032d96b1a4cb49e7c3b26b9d2ed9e
+model_type: null
+name: RandomForest
+source_run_id: e68d8acd94b64628841d382369d01bb5
+status: 2
+status_message: null

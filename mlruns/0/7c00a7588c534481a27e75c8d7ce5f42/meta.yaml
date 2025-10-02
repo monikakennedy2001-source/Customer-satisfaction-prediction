@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/py%20project/passenger%20satisfaction/mlruns/0/7c00a7588c534481a27e75c8d7ce5f42/artifacts
+end_time: 1759405056875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c00a7588c534481a27e75c8d7ce5f42
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759405051748
+status: 3
+tags: []
+user_id: Monika
